@@ -18,7 +18,12 @@ This is a repository containing resources for learning data science
 * MIT 18.01 (Freely available on OCW): https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
 
 ### Probability 
-IN PROGRESS
+
+* Dimitri P. Bertsekas and John N. Tsitsiklis - 
+Problem solutions for "Introduction to Probability" (2nd Edition):
+https://www.mit.edu/~jnt/home.html, 
+http://athenasc.com/probbook.html
+
 ### Statistics
 IN PROGRESS
 
