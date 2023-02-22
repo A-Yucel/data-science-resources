@@ -19,7 +19,7 @@ This is a repository containing resources for learning data science
 * Khan Academy - Linear Algebra: https://www.khanacademy.org/math/linear-algebra
 * Georgia Tech - Introductory Linear Algebra: https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra
 * Georgia Tech - Applications of Linear Algebra: https://www.edx.org/professional-certificate/gtx-applications-of-linear-algebra
-* Rice University Part 1 - Introdcution to Linear Algebra: https://www.edx.org/course/math-of-data-science-linear-algebra
+* Rice University Part 1 - Introduction to Linear Algebra: https://www.edx.org/course/math-of-data-science-linear-algebra
 * 3blue1brown - Introduction to Linear Algebra: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 * Imperial College London - Mathematics for Machine Learning Linear Algebra: https://www.coursera.org/learn/linear-algebra-machine-learning
 #### Books
