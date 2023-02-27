@@ -1,5 +1,5 @@
 # Data Science Resources
-This is a repository containing resources for learning Data Science, Machine Learning. Our aim to collect in one single place high-quality resouces and learning materials to help you master this subject. Most of the courses here are from top university all around the world, we tried collecting best materials and to avoid a large list of unstructured resources we hand-picked the courses which we consider the best, and structured this repository in a manner that is easy to navigate and find you want.
+This is a repository containing resources for learning Data Science and Machine Learning. Our aim is to collect in one single place high-quality resouces and learning materials to help you master this subject. Most of the resources are from top university all around the world, we tried collecting best materials and to avoid a large list of unstructured resources we hand-picked the courses which we consider the best in each subject, and structured this repository in a manner that is easy to navigate and find you want.
 
 ## Index
 * [Mathematics for Data Science](#mathematics-for-data-science)
@@ -51,6 +51,16 @@ http://athenasc.com/probbook.html
 IN PROGRESS
 
 ## Machine Learning
+* Stanford - CS 229 ― Machine Learning:
+* * Lecture: youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=1
+* * Course Website: https://cs229.stanford.edu/syllabus-autumn2018.html
+* * Notes: https://stanford.edu/~shervine/teaching/cs-229/
+* Caltech - Learning From Data: https://work.caltech.edu/telecourse
+* Andrew Ng - Machine Learning Specialization: https://www.coursera.org/specializations/machine-learning-introduction
+* CMU - Machine Learning: https://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml
+* UBC - Machine Learning: https://www.cs.ubc.ca/~nando/540-2013/lectures.html
+
+
 
 
 ## Deep Learning 
