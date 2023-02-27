@@ -57,8 +57,7 @@ IN PROGRESS
 * * Notes: https://stanford.edu/~shervine/teaching/cs-229/
 * Caltech - Learning From Data: https://work.caltech.edu/telecourse
 * Andrew Ng - Machine Learning Specialization: https://www.coursera.org/specializations/machine-learning-introduction
-* CMU - Machine Learning: https://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml
-* UBC - Machine Learning: https://www.cs.ubc.ca/~nando/540-2013/lectures.html
+
 
 
 
