@@ -52,7 +52,7 @@ IN PROGRESS
 
 ## Machine Learning
 * Stanford - CS 229 ― Machine Learning:
-* * Lecture: youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=1
+* * Lecture: https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 * * Course Website: https://cs229.stanford.edu/syllabus-autumn2018.html
 * * Notes: https://stanford.edu/~shervine/teaching/cs-229/
 * Caltech - Learning From Data: https://work.caltech.edu/telecourse
