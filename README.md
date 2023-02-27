@@ -1,5 +1,5 @@
 # Data Science Resources
-This is a repository containing resources for learning data science
+This is a repository containing resources for learning Data Science, Machine Learning. Our aim to collect in one single place high-quality resouces and learning materials to help you master this subject. Most of the courses here are from top university all around the world, we tried collecting best materials and to avoid a large list of unstructured resources we hand-picked the courses which we consider the best, and structured this repository in a manner that is easy to navigate and find you want.
 
 ## Index
 * [Mathematics for Data Science](#mathematics-for-data-science)
