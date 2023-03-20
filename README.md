@@ -57,6 +57,7 @@ IN PROGRESS
 * * Notes: https://stanford.edu/~shervine/teaching/cs-229/
 * Caltech - Learning From Data: https://work.caltech.edu/telecourse
 * Andrew Ng - Machine Learning Specialization: https://www.coursera.org/specializations/machine-learning-introduction
+* MIT - MIT 6.034 Artificial Intelligence: https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
 
 
 
