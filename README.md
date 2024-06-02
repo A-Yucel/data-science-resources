@@ -104,6 +104,8 @@ Mastering 'Metrics: The Path from Cause to Effect, Princeton University Press, 2
 * Caltech - Learning From Data: https://work.caltech.edu/telecourse
 * Andrew Ng - Machine Learning Specialization: https://www.coursera.org/specializations/machine-learning-introduction
 * MIT - MIT 6.034 Artificial Intelligence: https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
+* Justin Solomon, Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics, A K Peters/CRC Press, 2015. 
+* * https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf
 
 
 ## Deep Learning 
