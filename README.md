@@ -106,7 +106,8 @@ Mastering 'Metrics: The Path from Cause to Effect, Princeton University Press, 2
 * MIT - MIT 6.034 Artificial Intelligence: https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
 * Justin Solomon, Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics, A K Peters/CRC Press, 2015. 
 * * https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf
-
+* Mohammed J. Zaki, Wagner Meira, Jr., Data Mining and Machine Learning: Fundamental Concepts and Algorithms, 2nd Edition, Cambridge University Press, March 2020. ISBN: 978-1108473989.
+* * https://dataminingbook.info/book_html/
 
 ## Deep Learning 
 * Goodfellow & Bengio & Courville, Deep Learning:  https://www.deeplearningbook.org/
