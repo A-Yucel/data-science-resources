@@ -111,6 +111,7 @@ Mastering 'Metrics: The Path from Cause to Effect, Princeton University Press, 2
 
 ## Deep Learning 
 * Goodfellow & Bengio & Courville, Deep Learning:  https://www.deeplearningbook.org/
+* Michael Nielsen, Neural Networks and Deep Learning: http://neuralnetworksanddeeplearning.com/chap1.html
 
 ## Reinforcement Learning
 ### Books
