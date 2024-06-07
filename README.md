@@ -11,6 +11,19 @@ This is a repository containing resources for learning Data Science and Machine 
 
 
 ## Linear Algebra
+### Books
+* Gilbert Strang, Introduction to Linear Algebra, Sixth Edition, 2023: 
+  * https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html
+* Gilbert Strang, Linear Algebra for Everyone, 2020:
+https://math.mit.edu/~gs/everyone/
+* Gilbert Strang, Linear Algebra for Everyone, Solutions Manual. Available online:: 
+  * https://math.mit.edu/~gs/everyone/lafe_sols26.pdf
+* Gilbert Strang, Linear Algebra and Learning from Data, 2019. Available online: 
+  * https://math.mit.edu/~gs/learningfromdata/
+* Gilbert Strang, Linear Algebra and Learning from Data, Solutions Manual. Available online: 
+  * https://math.mit.edu/~gs/learningfromdata/lald_sols14.pdf
+* Robert van de Geijn and Maggie Myers, Advanced Linear Algebra: Foundations to Frontiers, December 2022, Available online:
+  * https://www.cs.utexas.edu/users/flame/laff/alaff/ALAFF.pdf
 ### Courses
 * MIT 18.06 (Freely available on OCW):
   * http://web.mit.edu/18.06/www/
@@ -31,21 +44,15 @@ This is a repository containing resources for learning Data Science and Machine 
   * https://www.coursera.org/learn/linear-algebra-machine-learning
 * Mark Embree, Matrix Methods for Computational Modeling and Data Analytics, Virginia Tech, 2023: 
   * https://personal.math.vt.edu/embree/cmda3606notes.pdf
-### Books
-* Gilbert Strang, Introduction to Linear Algebra, Sixth Edition, 2023: 
-  * https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html
-* Gilbert Strang, Linear Algebra for Everyone, 2020:
-https://math.mit.edu/~gs/everyone/
-* Gilbert Strang, Linear Algebra for Everyone, Solutions Manual. Available online:: 
-  * https://math.mit.edu/~gs/everyone/lafe_sols26.pdf
-* Gilbert Strang, Linear Algebra and Learning from Data, 2019. Available online: 
-  * https://math.mit.edu/~gs/learningfromdata/
-* Gilbert Strang, Linear Algebra and Learning from Data, Solutions Manual. Available online: 
-  * https://math.mit.edu/~gs/learningfromdata/lald_sols14.pdf
-* Robert van de Geijn and Maggie Myers, Advanced Linear Algebra: Foundations to Frontiers, December 2022, Available online:
-  * https://www.cs.utexas.edu/users/flame/laff/alaff/ALAFF.pdf
 
 ## Calculus
+### Books
+* Gilbert Strang & Edwin Herman, Calculus
+  * Gilbert Strang & Edwin Herman, Calculus Vol. 1: https://openstax.org/details/books/calculus-volume-1
+  * Gilbert Strang & Edwin Herman, Calculus Vol. 2: https://openstax.org/details/books/calculus-volume-2
+  * Gilbert Strang & Edwin Herman, Calculus Vol. 3: https://openstax.org/details/books/calculus-volume-3
+* James Stewart, Calculus: Early Transcendentals (Latest: Ninth Edition). 
+  * https://www.stewartcalculus.com/
 ### Courses
 * [MIT 18.01](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006 "MIT OCW")
   * And available via MIT OpenLearningLibrary: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/course/
@@ -56,13 +63,6 @@ https://math.mit.edu/~gs/everyone/
   * https://www.khanacademy.org/math/calculus-1
 * University of Sydney - Introduction to Calculus: 
   * https://www.coursera.org/learn/introduction-to-calculus
-### Books
-* Gilbert Strang & Edwin Herman, Calculus
-  * Gilbert Strang & Edwin Herman, Calculus Vol. 1: https://openstax.org/details/books/calculus-volume-1
-  * Gilbert Strang & Edwin Herman, Calculus Vol. 2: https://openstax.org/details/books/calculus-volume-2
-  * Gilbert Strang & Edwin Herman, Calculus Vol. 3: https://openstax.org/details/books/calculus-volume-3
-* James Stewart, Calculus: Early Transcendentals (Latest: Ninth Edition). 
-  * https://www.stewartcalculus.com/
 
 ## Probability 
 ### Books
@@ -72,17 +72,18 @@ https://math.mit.edu/~gs/everyone/
 
 
 ## Statistics
-### Notes
-* Professor Rigollet's lecture notes for the course on High-Dimensional Statistics, in a single PDF, Updated 2023: 
-  * https://arxiv.org/pdf/2310.19244
 ### Books
 * Larry Wasserman, All of Statistics, Updated 2003.
 * Introduction to Modern Statistics: 
   * https://www.openintro.org/book/ims/
 * Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin, Bayesian Data Analysis, 3rd edition. Available online (with typos fixed!): 
   * https://users.aalto.fi/~ave/BDA3.pdf
+### Courses
+* Professor Rigollet's lecture notes for the course on High-Dimensional Statistics, in a single PDF, Updated 2023: 
+  * https://arxiv.org/pdf/2310.19244
 
 ## Data Science
+### Books
 * Rafael Irizarry, Introduction to Data Science. Available online:
   * http://rafalab.dfci.harvard.edu/dsbook/
 * Bishop, Pattern Recognition and Machine Learning.
@@ -91,7 +92,9 @@ https://math.mit.edu/~gs/everyone/
 * Steven L. Brunton, J. Nathan Kutz, Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control. 2nd Edition. Cambridge University Press. 2022.
 * Novak, Numerical Methods for Scientific Computing - Second Edition, 2022. Available online:
   * https://equalsharepress.com/media/NMFSC.pdf
-
+### Courses
+* Michael Pyrcz, Data Analytics, Geostatistics and Machine Learning, Interactive dashboards, The University of Texas at Austin.
+* * https://github.com/GeostatsGuy/DataScience_Interactive_Python
 
 ## Econometrics
 ### Books
@@ -108,6 +111,7 @@ Mastering 'Metrics: The Path from Cause to Effect, Princeton University Press, 2
 * Joshua D. Angrist and Jörn-Steffen Pischke, Mostly Harmless Econometrics: An Empiricist's Companion, Princeton University Press, 2008. 
 
 ## Machine Learning
+### Books
 * Rasmussen & Williams, Gaussian Processes for Machine Learning.
 * Lopez & Lopez & Crossa, Multivariate Statistical Machine Learning Methods for Genomic Prediction.
 * Mohri & Rostamizadeh & Talwalkar, Foundations of Machine Learning.
@@ -126,16 +130,17 @@ Mastering 'Metrics: The Path from Cause to Effect, Princeton University Press, 2
   * Lecture: https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
   * Course Website: https://cs229.stanford.edu/syllabus-autumn2018.html
   * Notes: https://stanford.edu/~shervine/teaching/cs-229/
+* Justin Solomon, Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics, A K Peters/CRC Press, 2015. 
+  * https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf
+* Mohammed J. Zaki, Wagner Meira, Jr., Data Mining and Machine Learning: Fundamental Concepts and Algorithms, 2nd Edition, Cambridge University Press, March 2020. ISBN: 978-1108473989.
+  * https://dataminingbook.info/book_html/
+### Courses
 * Caltech - Learning From Data: 
   * https://work.caltech.edu/telecourse
 * Andrew Ng - Machine Learning Specialization: 
   * https://www.coursera.org/specializations/machine-learning-introduction
 * MIT - MIT 6.034 Artificial Intelligence: 
   * https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
-* Justin Solomon, Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics, A K Peters/CRC Press, 2015. 
-  * https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf
-* Mohammed J. Zaki, Wagner Meira, Jr., Data Mining and Machine Learning: Fundamental Concepts and Algorithms, 2nd Edition, Cambridge University Press, March 2020. ISBN: 978-1108473989.
-  * https://dataminingbook.info/book_html/
 
 ## Deep Learning 
 * Goodfellow & Bengio & Courville, Deep Learning:  
