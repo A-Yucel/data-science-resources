@@ -95,6 +95,7 @@ https://math.mit.edu/~gs/everyone/
 ### Courses
 * Michael Pyrcz, Data Analytics, Geostatistics and Machine Learning, Interactive dashboards, The University of Texas at Austin.
 * * https://github.com/GeostatsGuy/DataScience_Interactive_Python
+* * https://github.com/GeostatsGuy/PythonNumericalDemos/
 
 ## Econometrics
 ### Books
