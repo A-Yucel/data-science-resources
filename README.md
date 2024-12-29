@@ -92,6 +92,8 @@ https://math.mit.edu/~gs/everyone/
 * Steven L. Brunton, J. Nathan Kutz, Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control. 2nd Edition. Cambridge University Press. 2022.
 * Novak, Numerical Methods for Scientific Computing - Second Edition, 2022. Available online:
   * https://equalsharepress.com/media/NMFSC.pdf
+* Lehman, E., F.T. Leighton, and A.R. Meyer, Mathematics for Computer Science, 2015.
+  * https://people.csail.mit.edu/meyer/mcs.pdf
 ### Courses
 * Michael Pyrcz, Data Analytics, Geostatistics and Machine Learning, Interactive dashboards, The University of Texas at Austin.
 * * https://github.com/GeostatsGuy/DataScience_Interactive_Python
