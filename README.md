@@ -78,6 +78,9 @@ https://math.mit.edu/~gs/everyone/
   * https://www.openintro.org/book/ims/
 * Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin, Bayesian Data Analysis, 3rd edition. Available online (with typos fixed!): 
   * https://users.aalto.fi/~ave/BDA3.pdf
+* - James E. Gentle, Theory of Statistics, Updated 2025.
+  * https://mason.gmu.edu/~jgentle/books/MathStat.pdf
+
 ### Courses
 * Professor Rigollet's lecture notes for the course on High-Dimensional Statistics, in a single PDF, Updated 2023: 
   * https://arxiv.org/pdf/2310.19244
